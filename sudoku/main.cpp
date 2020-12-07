@@ -4,7 +4,7 @@
 #include "sudoku.h"
 
 using namespace std;
-
+/* The code in this testing file was provided by my instructors and is not my own. */ 
 int main() {
 
   char board[9][9];

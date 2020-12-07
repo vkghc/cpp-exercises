@@ -4,7 +4,7 @@
 #include<fstream>
 
 using namespace std; 
-
+/* The code in this test file was provided by my instructors and is not my own. */ 
 int main(int argc, char** argv)
 {
   // program ends if this value ever changes

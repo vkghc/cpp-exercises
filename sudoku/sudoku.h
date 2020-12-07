@@ -3,7 +3,7 @@
 #ifndef SUDOKU_H
 #define SUDOKU_H
 
-/* ~~~ PRE-SUPPLIED FUNCTIONS ~~~ */
+/* ~~~ PRE-SUPPLIED FUNCTIONS PROVIDED BY MY INSTRUCTORS (not my code) ~~~ */
 
 /* loads a Sudoku board from a file */
 void load_board(const char* filename, char board[9][9]);
@@ -16,7 +16,7 @@ void display_board(const char board[9][9]);
 
 
 
-/* ~~~ VESKO'S FUNCTIONS START HERE ~~~  */
+/* ~~~ MY CODE STARTS HERE ~~~  */
 
 /* ~~~Question 1~~~ */
 
